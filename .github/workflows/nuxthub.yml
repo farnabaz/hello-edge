@@ -30,4 +30,5 @@ jobs:
       - name: Build & Deploy to NuxtHub
         uses: nuxt-hub/action@v2
         with:
-          project-key: hello-edge-jx30
+          project-key: hello-edge-gv5p
+          hub-url: https://dev.nuxthub.pages.dev
