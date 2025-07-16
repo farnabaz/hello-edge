@@ -1,4 +1,4 @@
-# Hello Edge&234
+# Hello Edge&2345
 
 A minimal [Nuxt](https://nuxt.com) starter deployed on the Edge using [NuxtHub](https://hub.nuxt.com).
 
